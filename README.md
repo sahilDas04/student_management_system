@@ -13,6 +13,16 @@ This repository contains a simple **Student Management System** built with **Dja
 
 ---
 
+## 🖼️ **Screenshots**
+
+### **1. Dashboard View**
+![Dashboard](images/dashboard.png)
+
+### **2. Student Management Page**
+![Student Management](images/student_management.png)
+
+---
+
 ## 🛠️ **Technologies Used**
 - **Backend**: Django (Python)
 - **Frontend**: HTML, CSS
