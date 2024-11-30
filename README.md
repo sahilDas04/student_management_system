@@ -24,7 +24,7 @@ This repository contains a simple **Student Management System** built with **Dja
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/student-management-system.git
+git clone https://github.com/yourusername/student_management_system.git
 cd student-management-system
 ```
 
